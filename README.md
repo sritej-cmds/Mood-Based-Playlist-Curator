@@ -52,10 +52,10 @@ Tech Stack
 
 Installation
 
-git clone https://github.com/sritej-cmds/Mood-Based-Playlist-Curator
-cd Mood-Based-Playlist-Curator
-pip install -r requirements.txt
-python app_final.py
+1. git clone https://github.com/sritej-cmds/Mood-Based-Playlist-Curator
+2. cd Mood-Based-Playlist-Curator
+3. pip install -r requirements.txt
+4. python app_final.py
 
 Acknowledgements
 
