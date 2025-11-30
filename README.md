@@ -42,13 +42,13 @@ Designed prompts to make the explanation natural and human-like
 
 Tech Stack
 
-Backend: Python, Flask
-NLP: BART, MiniLM, Transformers
-Embeddings: Sentence-BERT
-Retrieval: FAISS
-Context: OpenWeatherMap API
-Music: Spotify API
-Frontend: HTML/CSS/JS
+1. Backend: Python, Flask
+2. NLP: BART, MiniLM, Transformers
+3. Embeddings: Sentence-BERT
+4. Retrieval: FAISS
+5. Context: OpenWeatherMap API
+6. Music: Spotify API
+7. Frontend: HTML/CSS/JS
 
 Installation
 
