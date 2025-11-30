@@ -50,11 +50,13 @@ Music: Spotify API
 Frontend: HTML/CSS/JS
 
 Installation
+
 git clone https://github.com/sritej-cmds/Mood-Based-Playlist-Curator
 cd Mood-Based-Playlist-Curator
 pip install -r requirements.txt
 python app_final.py
 
 Acknowledgements
+
 Built with teammates during the PESU I/O GenAI Hands-On Program.
 Special thanks to our mentors for the guidance.
