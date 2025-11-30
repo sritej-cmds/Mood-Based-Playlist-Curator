@@ -1,7 +1,7 @@
 Mood-Based Playlist Curator
 
 An agentic, context-aware music recommendation system that builds personalised playlists using mood detection, semantic RAG retrieval, real-time weather and time-of-day context, agentic reasoning, Spotify track suggestions, and reflective explanations.
-Built using Python, Flask, Transformers, Sentence-BERT, FAISS, and the Spotify API
+Built using Python, Flask, Transformers, Sentence-BERT, FAISS, and the Spotify API.
 
 System Flow (High-Level)
 
