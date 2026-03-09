@@ -472,7 +472,7 @@ def delete_song(pid, del_song):
 def get_all_playlists():
     return jsonify(playlists)
 # ───────────────────────────────────────────────
-if __name__ == "__main__":
+app=app
     print("🎶 Running Playlist AI v17 — RAG Query + Full Reflection")
 
     app.run(debug=True, use_reloader=False,port=5001)
