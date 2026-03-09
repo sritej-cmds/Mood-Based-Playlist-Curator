@@ -473,6 +473,4 @@ def get_all_playlists():
     return jsonify(playlists)
 # ───────────────────────────────────────────────
 app=app
-    print("🎶 Running Playlist AI v17 — RAG Query + Full Reflection")
-
-    app.run(debug=True, use_reloader=False,port=5001)
+    
