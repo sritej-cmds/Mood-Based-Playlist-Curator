@@ -360,6 +360,9 @@ def reflect_on_decision(moods, intent, weather, tod):
 # ENDPOINTS
 # ───────────────────────────────────────────────
 playlists = []
+@app.route("/")
+def home():
+    return {"message": "Playlist AI API running"}
 
 @app.route("/playlist/context", methods=["POST"])
 def playlist_with_context():
@@ -471,4 +474,5 @@ def get_all_playlists():
 # ───────────────────────────────────────────────
 if __name__ == "__main__":
     print("🎶 Running Playlist AI v17 — RAG Query + Full Reflection")
+
     app.run(debug=True, use_reloader=False,port=5001)
